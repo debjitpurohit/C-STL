@@ -1,0 +1,6 @@
+to start the STL we have to use 
+#include<bits/stdc++.h>
+using namespace std;
+
+docs of that 
+https://docs.google.com/presentation/d/1MA06UJP1fZzRIk08MshIZCJUDBOSB1KJDSYN87_W2A4/edit#slide=id.gcf8b321248_226_0
